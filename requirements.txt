@@ -1,9 +1,9 @@
+sklearn
 streamlit 
 pandas 
 matplotlib
 pickle
 numpy 
 seaborn
-sklearn
 catboost
 xgboost
